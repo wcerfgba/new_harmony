@@ -1,0 +1,4 @@
+{:deps {org.clojure/math.combinatorics {:mvn/version "0.1.6"}}
+ :aliases {:nREPL
+           {:extra-deps
+            {nrepl/nrepl {:mvn/version "0.8.3"}}}}}
